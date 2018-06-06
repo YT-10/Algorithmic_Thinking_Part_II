@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Dec 16 23:32:16 2017
-
-@author: TatlierY
-"""
-
 import urllib
 
 def copy_graph(graph):
