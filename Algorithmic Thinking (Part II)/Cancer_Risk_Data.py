@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Dec 10 12:02:30 2017
-
-@author: TatlierY
-"""
-
 """
 Example code for creating and visualizing
 cluster of county-based cancer risk data
