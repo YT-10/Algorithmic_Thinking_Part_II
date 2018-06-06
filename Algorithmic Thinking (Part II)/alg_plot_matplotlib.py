@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Dec 23 12:29:41 2017
-
-@author: TatlierY
-"""
-
 import math
 import urllib
 import matplotlib.pyplot as plt
