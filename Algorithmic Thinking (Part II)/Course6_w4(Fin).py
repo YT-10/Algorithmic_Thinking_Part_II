@@ -2,7 +2,7 @@
 """
 Created on Mon Nov 27 19:12:53 2017
 
-@author: TatlierY
+@author: Yusuf Tatlier
 """
 
 
