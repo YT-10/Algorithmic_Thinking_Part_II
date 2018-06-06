@@ -1,7 +1,7 @@
 """
 Created on Sat Dec 16 11:37:05 2017
 
-@author: TatlierY
+@author: Yusuf Tatlier
 """
 
 import math 
